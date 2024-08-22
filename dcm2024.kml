@@ -496,7 +496,7 @@
       </Placemark>
       <Placemark>
         <name>Mile 1</name>
-        <styleUrlhttps://www.timingireland.ie/map/images/icon-1.png</styleUrl>
+        <styleUrl>https://www.timingireland.ie/map/images/icon-1.png</styleUrl>
         <Point>
           <coordinates>
             -6.2718331,53.3410996,0
