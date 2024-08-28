@@ -512,7 +512,7 @@
       </Placemark>
       <Placemark>
         <name>Mile 1</name>
-        <styleUrl>mile1</styleUrl>
+        <styleUrl>#mile1</styleUrl>
         <Point>
           <coordinates>
             -6.2718331,53.3410996,0
