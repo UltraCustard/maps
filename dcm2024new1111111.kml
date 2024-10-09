@@ -32,6 +32,16 @@
       </IconStyle>
 </Style>
 
+<Placemark id="mile2">
+        <name>Mile 2</name>
+        <styleUrl>#mile2</styleUrl>
+        <Point>
+          <coordinates>-6.2820317,53.3462946,0</coordinates>
+        </Point>
+      </Placemark>
+</Document>
+
+<Document>
 <Style id="mile3">
       <IconStyle>
         <Icon>
@@ -41,6 +51,15 @@
       </IconStyle>
 </Style>
 
+<Placemark id="mile3">
+        <name>Mile 3</name>
+        <styleUrl>#mile3</styleUrl>
+        <Point>
+          <coordinates>-6.2938978,53.3548506,0</coordinates>
+        </Point>
+      </Placemark>
+</Document>
+<Document>
 <Style id="mile4">
       <IconStyle>
         <Icon>
@@ -204,22 +223,7 @@
 </Style>
 
 
-
-      <Placemark id="mile2">
-        <name>Mile 2</name>
-        <styleUrl>#mile2</styleUrl>
-        <Point>
-          <coordinates>-6.2820317,53.3462946,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile3">
-        <name>Mile 3</name>
-        <styleUrl>#mile3</styleUrl>
-        <Point>
-          <coordinates>-6.2938978,53.3548506,0</coordinates>
-        </Point>
-      </Placemark>
+      
 
       <Placemark id="mile4">
         <name>Mile 4</name>
