@@ -13,7 +13,16 @@
         </Icon>
       </IconStyle>
 </Style>
+<Placemark id="mile1">
+        <name>Mile 1</name>
+        <styleUrl>#mile1</styleUrl>
+        <Point>
+          <coordinates>-6.2718331,53.3410996,0</coordinates>
+        </Point>
+      </Placemark>
+</Document>
 
+<Document>
 <Style id="mile2">
       <IconStyle>
         <Icon>
@@ -194,13 +203,7 @@
       </IconStyle>
 </Style>
 
-<Placemark id="mile1">
-        <name>Mile 1</name>
-        <styleUrl>#mile1</styleUrl>
-        <Point>
-          <coordinates>-6.2718331,53.3410996,0</coordinates>
-        </Point>
-      </Placemark>
+
 
       <Placemark id="mile2">
         <name>Mile 2</name>
