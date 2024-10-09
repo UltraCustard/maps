@@ -184,59 +184,6 @@
       </IconStyle>
 </Style>
 
-<Style id="mile21">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-21.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile22">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-22.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile23">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-23.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile24">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-24.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile25">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-25.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile26">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-26.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
 
     <Folder>
       <name>Route</name>
