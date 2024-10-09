@@ -3,7 +3,7 @@
   <Document>
     <name>2024 DCM Map</name>
     <description/>
-    <Folder>
+
     <name>folder1</name>
       <Style id="mile1">
         <IconStyle>
@@ -340,7 +340,6 @@
           <coordinates>-6.2386632,53.3124042,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
 </Document>
 </kml>
