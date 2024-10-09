@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-
     <Folder>
-    <name>fm1</name>
+    <name>folder1</name>
       <Style id="mile1">
         <IconStyle>
           <Icon>
@@ -19,10 +18,7 @@
           <coordinates>-6.2718331,53.3410996,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm2</name>
       <Style id="mile2">
         <IconStyle>
           <Icon>
@@ -38,10 +34,7 @@
           <coordinates>-6.2820317,53.3462946,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm3</name>
       <Style id="mile3">
         <IconStyle>
           <Icon>
@@ -57,10 +50,7 @@
           <coordinates>-6.2938978,53.3548506,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm4</name>
       <Style id="mile4">
         <IconStyle>
           <Icon>
@@ -76,10 +66,7 @@
           <coordinates>-6.3066361,53.3551525,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm5</name>
       <Style id="mile5">
         <IconStyle>
           <Icon>
@@ -95,10 +82,7 @@
           <coordinates>-6.3236167,53.3591792,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm6</name>
       <Style id="mile6">
         <IconStyle>
           <Icon>
@@ -114,10 +98,7 @@
           <coordinates>-6.3433553,53.3674605,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm7</name>
       <Style id="mile7">
         <IconStyle>
           <Icon>
@@ -133,10 +114,7 @@
           <coordinates>-6.3630121,53.3717986,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm8</name>
       <Style id="mile8">
         <IconStyle>
           <Icon>
@@ -152,10 +130,7 @@
           <coordinates>-6.3573779,53.3585684,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm9</name>
       <Style id="mile9">
         <IconStyle>
           <Icon>
@@ -171,10 +146,7 @@
           <coordinates>-6.3471227,53.3530715,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm10</name>
       <Style id="mile10">
         <IconStyle>
           <Icon>
@@ -190,10 +162,7 @@
           <coordinates>-6.3443777,53.3481088,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-  <Folder>
-  <name>fm11</name>
       <Style id="mile11">
         <IconStyle>
           <Icon>
@@ -209,10 +178,7 @@
           <coordinates>-6.3228969,53.3409153,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm12</name>
       <Style id="mile12">
         <IconStyle>
           <Icon>
@@ -228,10 +194,7 @@
           <coordinates>-6.3033539,53.3396263,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm13</name>
       <Style id="mile13">
         <IconStyle>
           <Icon>
@@ -247,10 +210,7 @@
           <coordinates>-6.2966156,53.3315147,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm14</name>
       <Style id="mile14">
         <IconStyle>
           <Icon>
@@ -266,10 +226,7 @@
           <coordinates>-6.3151127,53.3261718,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm15</name>
       <Style id="mile15">
         <IconStyle>
           <Icon>
@@ -285,10 +242,7 @@
           <coordinates>-6.3326478,53.3180105,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm16</name>
       <Style id="mile16">
         <IconStyle>
           <Icon>
@@ -304,10 +258,7 @@
           <coordinates>-6.3112337,53.3142418,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm17</name>
       <Style id="mile17">
         <IconStyle>
           <Icon>
@@ -323,10 +274,7 @@
           <coordinates>-6.3002467,53.3058315,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm18</name>
       <Style id="mile18">
         <IconStyle>
           <Icon>
@@ -342,10 +290,7 @@
           <coordinates>-6.2856984,53.308883,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm19</name>
       <Style id="mile19">
         <IconStyle>
           <Icon>
@@ -361,10 +306,7 @@
           <coordinates>-6.2670731,53.3073444,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm20</name>
       <Style id="mile20">
         <IconStyle>
           <Icon>
@@ -380,10 +322,7 @@
           <coordinates>-6.2476896,53.3122247,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
 
-    <Folder>
-    <name>fm21</name>
       <Style id="mile21">
         <IconStyle>
           <Icon>
