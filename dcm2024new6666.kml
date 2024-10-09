@@ -115,15 +115,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
-<Style id="mile4">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-4.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
       
       <Style id="mile5">
         <IconStyle>
@@ -152,14 +143,6 @@
         </IconStyle>
       </Style>
 
-<Style id="mile8">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-8.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
       
       <Style id="mile9">
         <IconStyle>
@@ -187,15 +170,7 @@
           </Icon>
         </IconStyle>
       </Style>
-      
-<Style id="mile12">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-12.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
+
       
       <Style id="mile13">
         <IconStyle>
@@ -214,15 +189,7 @@
           </Icon>
         </IconStyle>
       </Style>
-      
-<Style id="mile15">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-15.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
+
       
       <Style id="mile16">
         <IconStyle>
@@ -243,14 +210,7 @@
       </Style>
       
       
-      <Style id="mile18">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-18.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
+
 
 <Style id="mile19">
         <IconStyle>
@@ -261,14 +221,7 @@
         </IconStyle>
       </Style>
 
-<Style id="mile20">
-        <IconStyle>
-          <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-20.png</href>
-            <scale>1.0</scale>
-          </Icon>
-        </IconStyle>
-      </Style>
+
 
 <Style id="mile21">
         <IconStyle>
