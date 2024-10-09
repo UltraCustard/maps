@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+
     <Folder>
-      <name>fm1</name>
+    <name>fm1</name>
       <Style id="mile1">
         <IconStyle>
           <Icon>
@@ -11,7 +12,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile1">
         <name>Mile 1</name>
         <styleUrl>#mile1</styleUrl>
@@ -29,20 +29,19 @@
             <href>https://www.timingireland.ie/map/images/icon-2.png</href>
             <scale>1.0</scale>
           </Icon>
-      </IconStyle>
-    </Style>
-
-    <Placemark id="mile2">
+        </IconStyle>
+      </Style>
+      <Placemark id="mile2">
         <name>Mile 2</name>
         <styleUrl>#mile2</styleUrl>
         <Point>
           <coordinates>-6.2820317,53.3462946,0</coordinates>
         </Point>
-    </Placemark>
+      </Placemark>
     </Folder>
 
     <Folder>
-    <name>fm1</name>
+    <name>fm3</name>
       <Style id="mile3">
         <IconStyle>
           <Icon>
@@ -51,7 +50,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile3">
         <name>Mile 3</name>
         <styleUrl>#mile3</styleUrl>
@@ -71,7 +69,6 @@
         </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile4">
         <name>Mile 4</name>
         <styleUrl>#mile4</styleUrl>
@@ -81,7 +78,7 @@
       </Placemark>
     </Folder>
 
-     <Folder>
+    <Folder>
     <name>fm5</name>
       <Style id="mile5">
         <IconStyle>
@@ -91,14 +88,13 @@
           </Icon>
         </IconStyle>
       </Style>
-
-     <Placemark id="mile5">
+      <Placemark id="mile5">
         <name>Mile 5</name>
         <styleUrl>#mile5</styleUrl>
         <Point>
           <coordinates>-6.3236167,53.3591792,0</coordinates>
         </Point>
-    </Placemark>
+      </Placemark>
     </Folder>
 
     <Folder>
@@ -111,7 +107,6 @@
         </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile6">
         <name>Mile 6</name>
         <styleUrl>#mile6</styleUrl>
@@ -131,7 +126,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile7">
         <name>Mile 7</name>
         <styleUrl>#mile7</styleUrl>
@@ -151,7 +145,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile8">
         <name>Mile 8</name>
         <styleUrl>#mile8</styleUrl>
@@ -171,7 +164,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile9">
         <name>Mile 9</name>
         <styleUrl>#mile9</styleUrl>
@@ -191,7 +183,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile10">
         <name>Mile 10</name>
         <styleUrl>#mile10</styleUrl>
@@ -211,7 +202,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile11">
         <name>Mile 11</name>
         <styleUrl>#mile11</styleUrl>
@@ -231,7 +221,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile12">
         <name>Mile 12</name>
         <styleUrl>#mile12</styleUrl>
@@ -251,7 +240,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile13">
         <name>Mile 13</name>
         <styleUrl>#mile13</styleUrl>
@@ -271,7 +259,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile14">
         <name>Mile 14</name>
         <styleUrl>#mile14</styleUrl>
@@ -291,7 +278,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile15">
         <name>Mile 15</name>
         <styleUrl>#mile15</styleUrl>
@@ -311,7 +297,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile16">
         <name>Mile 16</name>
         <styleUrl>#mile16</styleUrl>
@@ -331,7 +316,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile17">
         <name>Mile 17</name>
         <styleUrl>#mile17</styleUrl>
@@ -351,7 +335,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile18">
         <name>Mile 18</name>
         <styleUrl>#mile18</styleUrl>
@@ -371,7 +354,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile19">
         <name>Mile 19</name>
         <styleUrl>#mile19</styleUrl>
@@ -391,7 +373,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile20">
         <name>Mile 20</name>
         <styleUrl>#mile20</styleUrl>
@@ -411,7 +392,6 @@
           </Icon>
         </IconStyle>
       </Style>
-
       <Placemark id="mile21">
         <name>Mile 21</name>
         <styleUrl>#mile21</styleUrl>
@@ -419,7 +399,7 @@
           <coordinates>-6.2386632,53.3124042,0</coordinates>
         </Point>
       </Placemark>
-  </Folder>
+    </Folder>
 
 </Document>
 </kml>
