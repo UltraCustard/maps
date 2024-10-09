@@ -193,51 +193,6 @@
       </IconStyle>
 </Style>
 
-<Style id="mile22">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-22.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile23">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-23.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile24">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-24.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile25">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-25.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
-<Style id="mile26">
-      <IconStyle>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-26.png</href>
-          <scale>1.0</scale>
-        </Icon>
-      </IconStyle>
-</Style>
-
     <Folder>
       <name>Route</name>
       <Placemark>
@@ -604,6 +559,7 @@
         </LineString>
       </Placemark>
 
+<Folder>
       <Placemark id="mile1">
         <name>Mile 1</name>
         <styleUrl>#mile1</styleUrl>
@@ -643,7 +599,7 @@
           <coordinates>-6.3236167,53.3591792,0</coordinates>
         </Point>
       </Placemark>
-
+</Folder>
       <Placemark id="mile6">
         <name>Mile 6</name>
         <styleUrl>#mile6</styleUrl>
@@ -769,48 +725,6 @@
         <styleUrl>#mile21</styleUrl>
         <Point>
           <coordinates>-6.2386632,53.3124042,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile22">
-        <name>Mile 22</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>-6.2263391,53.3013219,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile23">
-        <name>Mile 23</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>-6.2105625,53.3049712,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile24">
-        <name>Mile 24</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>-6.2149665,53.3167327,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile25">
-        <name>Mile 25</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2223479,53.3251266,0
-          </coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile26">
-        <name>Mile 26</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>-6.2412665,53.338049,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
