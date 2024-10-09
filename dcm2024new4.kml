@@ -187,7 +187,7 @@
 <Style id="mile21">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-21.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -196,7 +196,7 @@
 <Style id="mile22">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-22.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -205,7 +205,7 @@
 <Style id="mile23">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-23.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -214,7 +214,7 @@
 <Style id="mile24">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-24.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -223,7 +223,7 @@
 <Style id="mile25">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-25.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -232,7 +232,7 @@
 <Style id="mile26">
       <IconStyle>
         <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-20.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-26.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -766,7 +766,7 @@
 
       <Placemark id="mile21">
         <name>Mile 21</name>
-        <styleUrl>#mile21</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>-6.2386632,53.3124042,0</coordinates>
         </Point>
@@ -774,7 +774,7 @@
 
       <Placemark id="mile22">
         <name>Mile 22</name>
-        <styleUrl>#mile22</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>-6.2263391,53.3013219,0</coordinates>
         </Point>
@@ -782,7 +782,7 @@
 
       <Placemark id="mile23">
         <name>Mile 23</name>
-        <styleUrl>#mile23</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>-6.2105625,53.3049712,0</coordinates>
         </Point>
@@ -790,7 +790,7 @@
 
       <Placemark id="mile24">
         <name>Mile 24</name>
-        <styleUrl>#mile24</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>-6.2149665,53.3167327,0</coordinates>
         </Point>
@@ -798,7 +798,7 @@
 
       <Placemark id="mile25">
         <name>Mile 25</name>
-        <styleUrl>#mile25</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>
             -6.2223479,53.3251266,0
@@ -808,7 +808,7 @@
 
       <Placemark id="mile26">
         <name>Mile 26</name>
-        <styleUrl>#mile26</styleUrl>
+        <styleUrl>#mile20</styleUrl>
         <Point>
           <coordinates>-6.2412665,53.338049,0</coordinates>
         </Point>
