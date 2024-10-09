@@ -1,150 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+
   <Document>
     <name>2024 DCM Map</name>
-    <description/>
+
 <Style id="mile1">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-1.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-DB4436-nodesc-normal">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-1.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-DB4436-nodesc-highlight">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.timingireland.ie/map/images/icon-1.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-DB4436-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-0F9D58-4294-nodesc-normal">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>4.294</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="line-0F9D58-4294-nodesc-highlight">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>6.441</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="line-0F9D58-4294-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-0F9D58-4294-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-0F9D58-4294-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-7CB342-5650-nodesc-normal">
-      <LineStyle>
-        <color>ff42b37c</color>
-        <width>5.65</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="line-7CB342-5650-nodesc-highlight">
-      <LineStyle>
-        <color>ff42b37c</color>
-        <width>8.475</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="line-7CB342-5650-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-7CB342-5650-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-7CB342-5650-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FF5252-4488-nodesc-normal">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>4.488</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="line-FF5252-4488-nodesc-highlight">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>6.732</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="line-FF5252-4488-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FF5252-4488-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FF5252-4488-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <IconStyle id="mystyle">
+      <Icon>
+        <href>https://www.timingireland.ie/map/images/icon-1.png</href>
+        <scale>1.0</scale>
+      </Icon>
+    </IconStyle>
+  </Style>
+</Placemark id="mile2">
+        <name>Mile 1</name>
+        <styleUrl>#mile1</styleUrl>
+        <Point>
+          <coordinates>
+            -6.2718331,53.3410996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      
+
     <Folder>
       <name>Route</name>
       <Placemark>
@@ -510,241 +389,8 @@
           </coordinates>
         </LineString>
       </Placemark>
-      <Placemark>
-        <name>Mile 1</name>
-        <styleUrl>#mile1</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2718331,53.3410996,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 2</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2820317,53.3462946,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 3</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2938978,53.3548506,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 4</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3066361,53.3551525,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 5</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3236167,53.3591792,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 6</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3433553,53.3674605,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 7</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3630121,53.3717986,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 8</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3573779,53.3585684,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 9</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3471227,53.3530715,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 10</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3443777,53.3481088,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 11</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3228969,53.3409153,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 12</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3033539,53.3396263,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 13</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2966156,53.3315147,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 14</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3151127,53.3261718,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 15</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3326478,53.3180105,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 16</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3112337,53.3142418,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 17</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.3002467,53.3058315,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 18</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2856984,53.308883,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 19</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2670731,53.3073444,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 20</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2476896,53.3122247,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 21</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2386632,53.3124042,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 22</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2263391,53.3013219,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 23</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2105625,53.3049712,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 24</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2149665,53.3167327,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 25</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2223479,53.3251266,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mile 26</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.2412665,53.338049,0
-          </coordinates>
-        </Point>
-      </Placemark>
     </Folder>
+
     <Folder>
       <name>Start and Finish</name>
       <Placemark>
@@ -770,5 +416,6 @@
         </LineString>
       </Placemark>
     </Folder>
+
   </Document>
 </kml>
