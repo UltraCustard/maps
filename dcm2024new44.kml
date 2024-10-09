@@ -5,7 +5,7 @@
     <description/>
 
       <Style id="mile1">
-        <IconStyle>
+        <IconStyle id="miles">
           <Icon>
             <href>https://www.timingireland.ie/map/images/icon-1.png</href>
             <scale>1.0</scale>
@@ -192,7 +192,8 @@
           </Icon>
         </IconStyle>
       </Style>
-      <Folder>
+
+
       <name>markers</name>
 <Placemark id="mile1">
         <name>Mile 1</name>
@@ -341,8 +342,6 @@
           <coordinates>-6.2386632,53.3124042,0</coordinates>
         </Point>
       </Placemark>
-      </Folder>
-
-
+    
 </Document>
 </kml>
