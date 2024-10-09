@@ -797,6 +797,48 @@
           <coordinates>-6.2386632,53.3124042,0</coordinates>
         </Point>
       </Placemark>
+<Placemark id="mile22">
+        <name>Mile 22</name>
+        <styleUrl>#mile22</styleUrl>
+        <Point>
+          <coordinates>-6.2263391,53.3013219,0</coordinates>
+        </Point>
+      </Placemark>
+<Placemark id="mile23">
+        <name>Mile 23</name>
+        <styleUrl>#mile23</styleUrl>
+        <Point>
+          <coordinates>-6.2105625,53.3049712,0</coordinates>
+        </Point>
+      </Placemark>
+<Placemark id="mile24">
+        <name>Mile 24</name>
+        <styleUrl>#mile24</styleUrl>
+        <Point>
+          <coordinates>-6.2149665,53.3167327,0</coordinates>
+        </Point>
+      </Placemark>
+<Placemark id="mile25">
+        <name>Mile 25</name>
+        <styleUrl>#mile25</styleUrl>
+        <Point>
+          <coordinates>-6.2223479,53.3251266,0</coordinates>
+        </Point>
+      </Placemark>
+<Placemark id="mile26">
+        <name>Mile 26</name>
+        <styleUrl>#mile26</styleUrl>
+        <Point>
+          <coordinates>-6.2412665,53.338049,0</coordinates>
+        </Point>
+      </Placemark>
+<Placemark id="mile21">
+        <name>Mile 21</name>
+        <styleUrl>#mile21</styleUrl>
+        <Point>
+          <coordinates>-6.2386632,53.3124042,0</coordinates>
+        </Point>
+      </Placemark>
 
 </Folder>
     <Folder>
