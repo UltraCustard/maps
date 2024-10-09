@@ -90,7 +90,7 @@
     </StyleMap>
 
       <Style id="mile1">
-        <IconStyle id="miles">
+        <IconStyle>
           <Icon>
             <href>https://www.timingireland.ie/map/images/icon-1.png</href>
             <scale>1.0</scale>
@@ -244,7 +244,7 @@
 <Style id="mile23">
         <IconStyle>
           <Icon>
-            <href>https://www.timingireland.ie/map/images/icon-23.png</href>
+            <href>https://www.timingireland.ie/map/images/mile.png</href>
             <scale>1.0</scale>
           </Icon>
         </IconStyle>
