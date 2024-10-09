@@ -7,7 +7,7 @@
 <Style id="mile1">
       <IconStyle>
         <Icon>
-          <href>www.timingireland.ie/map/images/icon-1.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-1.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -16,7 +16,7 @@
 <Style id="mile2">
       <IconStyle>
         <Icon>
-          <href>www.timingireland.ie/map/images/icon-2.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-2.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
@@ -25,7 +25,7 @@
 <Style id="mile3">
       <IconStyle>
         <Icon>
-          <href>www.timingireland.ie/map/images/icon-3.png</href>
+          <href>https://www.timingireland.ie/map/images/icon-3.png</href>
           <scale>1.0</scale>
         </Icon>
       </IconStyle>
