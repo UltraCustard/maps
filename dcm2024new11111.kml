@@ -4,6 +4,7 @@
     <name>2024 DCM Map</name>
     <description/>
 
+<Document>
 <Style id="mile1">
       <IconStyle>
         <Icon>
@@ -192,6 +193,176 @@
         </Icon>
       </IconStyle>
 </Style>
+
+<Placemark id="mile1">
+        <name>Mile 1</name>
+        <styleUrl>#mile1</styleUrl>
+        <Point>
+          <coordinates>-6.2718331,53.3410996,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile2">
+        <name>Mile 2</name>
+        <styleUrl>#mile2</styleUrl>
+        <Point>
+          <coordinates>-6.2820317,53.3462946,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile3">
+        <name>Mile 3</name>
+        <styleUrl>#mile3</styleUrl>
+        <Point>
+          <coordinates>-6.2938978,53.3548506,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile4">
+        <name>Mile 4</name>
+        <styleUrl>#mile4</styleUrl>
+        <Point>
+          <coordinates>-6.3066361,53.3551525,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile5">
+        <name>Mile 5</name>
+        <styleUrl>#mile5</styleUrl>
+        <Point>
+          <coordinates>-6.3236167,53.3591792,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile6">
+        <name>Mile 6</name>
+        <styleUrl>#mile6</styleUrl>
+        <Point>
+          <coordinates>-6.3433553,53.3674605,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile7">
+        <name>Mile 7</name>
+        <styleUrl>#mile7</styleUrl>
+        <Point>
+          <coordinates>-6.3630121,53.3717986,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile8">
+        <name>Mile 8</name>
+        <styleUrl>#mile8</styleUrl>
+        <Point>
+          <coordinates>-6.3573779,53.3585684,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile9">
+        <name>Mile 9</name>
+        <styleUrl>#mile9</styleUrl>
+        <Point>
+          <coordinates>-6.3471227,53.3530715,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile10">
+        <name>Mile 10</name>
+        <styleUrl>#mile10</styleUrl>
+        <Point>
+          <coordinates>-6.3443777,53.3481088,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile11">
+        <name>Mile 11</name>
+        <styleUrl>#mile11</styleUrl>
+        <Point>
+          <coordinates>-6.3228969,53.3409153,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile12">
+        <name>Mile 12</name>
+        <styleUrl>#mile12</styleUrl>
+        <Point>
+          <coordinates>-6.3033539,53.3396263,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile13">
+        <name>Mile 13</name>
+        <styleUrl>#mile13</styleUrl>
+        <Point>
+          <coordinates>-6.2966156,53.3315147,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile14">
+        <name>Mile 14</name>
+        <styleUrl>#mile14</styleUrl>
+        <Point>
+          <coordinates>-6.3151127,53.3261718,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile15">
+        <name>Mile 15</name>
+        <styleUrl>#mile15</styleUrl>
+        <Point>
+          <coordinates>-6.3326478,53.3180105,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile16">
+        <name>Mile 16</name>
+        <styleUrl>#mile16</styleUrl>
+        <Point>
+          <coordinates>-6.3112337,53.3142418,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile17">
+        <name>Mile 17</name>
+        <styleUrl>#mile17</styleUrl>
+        <Point>
+          <coordinates>-6.3002467,53.3058315,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile18">
+        <name>Mile 18</name>
+        <styleUrl>#mile18</styleUrl>
+        <Point>
+          <coordinates>-6.2856984,53.308883,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile19">
+        <name>Mile 19</name>
+        <styleUrl>#mile19</styleUrl>
+        <Point>
+          <coordinates>-6.2670731,53.3073444,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile20">
+        <name>Mile 20</name>
+        <styleUrl>#mile20</styleUrl>
+        <Point>
+          <coordinates>-6.2476896,53.3122247,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark id="mile21">
+        <name>Mile 21</name>
+        <styleUrl>#mile21</styleUrl>
+        <Point>
+          <coordinates>-6.2386632,53.3124042,0</coordinates>
+        </Point>
+      </Placemark>
+
+</Document>
 
     <Folder>
       <name>Route</name>
@@ -557,175 +728,6 @@
             -6.2460373,53.3376472,0
           </coordinates>
         </LineString>
-      </Placemark>
-
-<Folder>
-      <Placemark id="mile1">
-        <name>Mile 1</name>
-        <styleUrl>#mile1</styleUrl>
-        <Point>
-          <coordinates>-6.2718331,53.3410996,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile2">
-        <name>Mile 2</name>
-        <styleUrl>#mile2</styleUrl>
-        <Point>
-          <coordinates>-6.2820317,53.3462946,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile3">
-        <name>Mile 3</name>
-        <styleUrl>#mile3</styleUrl>
-        <Point>
-          <coordinates>-6.2938978,53.3548506,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile4">
-        <name>Mile 4</name>
-        <styleUrl>#mile4</styleUrl>
-        <Point>
-          <coordinates>-6.3066361,53.3551525,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile5">
-        <name>Mile 5</name>
-        <styleUrl>#mile5</styleUrl>
-        <Point>
-          <coordinates>-6.3236167,53.3591792,0</coordinates>
-        </Point>
-      </Placemark>
-</Folder>
-      <Placemark id="mile6">
-        <name>Mile 6</name>
-        <styleUrl>#mile6</styleUrl>
-        <Point>
-          <coordinates>-6.3433553,53.3674605,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile7">
-        <name>Mile 7</name>
-        <styleUrl>#mile7</styleUrl>
-        <Point>
-          <coordinates>-6.3630121,53.3717986,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile8">
-        <name>Mile 8</name>
-        <styleUrl>#mile8</styleUrl>
-        <Point>
-          <coordinates>-6.3573779,53.3585684,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile9">
-        <name>Mile 9</name>
-        <styleUrl>#mile9</styleUrl>
-        <Point>
-          <coordinates>-6.3471227,53.3530715,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile10">
-        <name>Mile 10</name>
-        <styleUrl>#mile10</styleUrl>
-        <Point>
-          <coordinates>-6.3443777,53.3481088,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile11">
-        <name>Mile 11</name>
-        <styleUrl>#mile11</styleUrl>
-        <Point>
-          <coordinates>-6.3228969,53.3409153,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile12">
-        <name>Mile 12</name>
-        <styleUrl>#mile12</styleUrl>
-        <Point>
-          <coordinates>-6.3033539,53.3396263,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile13">
-        <name>Mile 13</name>
-        <styleUrl>#mile13</styleUrl>
-        <Point>
-          <coordinates>-6.2966156,53.3315147,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile14">
-        <name>Mile 14</name>
-        <styleUrl>#mile14</styleUrl>
-        <Point>
-          <coordinates>-6.3151127,53.3261718,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile15">
-        <name>Mile 15</name>
-        <styleUrl>#mile15</styleUrl>
-        <Point>
-          <coordinates>-6.3326478,53.3180105,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile16">
-        <name>Mile 16</name>
-        <styleUrl>#mile16</styleUrl>
-        <Point>
-          <coordinates>-6.3112337,53.3142418,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile17">
-        <name>Mile 17</name>
-        <styleUrl>#mile17</styleUrl>
-        <Point>
-          <coordinates>-6.3002467,53.3058315,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile18">
-        <name>Mile 18</name>
-        <styleUrl>#mile18</styleUrl>
-        <Point>
-          <coordinates>-6.2856984,53.308883,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile19">
-        <name>Mile 19</name>
-        <styleUrl>#mile19</styleUrl>
-        <Point>
-          <coordinates>-6.2670731,53.3073444,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile20">
-        <name>Mile 20</name>
-        <styleUrl>#mile20</styleUrl>
-        <Point>
-          <coordinates>-6.2476896,53.3122247,0</coordinates>
-        </Point>
-      </Placemark>
-
-      <Placemark id="mile21">
-        <name>Mile 21</name>
-        <styleUrl>#mile21</styleUrl>
-        <Point>
-          <coordinates>-6.2386632,53.3124042,0</coordinates>
-        </Point>
       </Placemark>
     </Folder>
 
